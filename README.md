@@ -1,2 +1,3 @@
 # Repositorio_Teste
- Repositoria para aprendizado de GithHub
+Repositório para aprendizado de GithHub.
+Repositório criado com aulas do Prof. Guanabara
